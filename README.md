@@ -1,10 +1,8 @@
-<div align="center">
 
 # AI-Powered PDF Question Answering System (RAG)
 
-![Project Screenshot](screenshots/screenshots/Screenshot 2026-11-08 183337.png)
+![Project Screenshot](screenshots/Screenshot%202026-11-08%20183337.png)
 
-</div>
 
 
 # AI-Powered PDF Question Answering System (RAG)
